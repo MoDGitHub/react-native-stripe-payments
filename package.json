@@ -1,5 +1,5 @@
 {
-  "name": "react-native-stripe-payments",
+  "name": "@modgithub/react-native-stripe-payments",
   "title": "React Native Stripe Payments",
   "version": "1.0.4",
   "description": "Lightweight, easy to integrate and use React native library for Stripe payments (using Payment Intents) compliant with SCA (strong customer authentication).",

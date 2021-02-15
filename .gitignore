@@ -9,3 +9,6 @@ npm-debug.log
 yarn-error.log
 
 android/build/
+.npmrc
+*.map
+build/index.js.map
